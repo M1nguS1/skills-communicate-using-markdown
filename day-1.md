@@ -1,6 +1,8 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] Learn more about GitHub
 - [ ] Complete GitHub Skills exercises
 - [ ] Convert my first blog post into an actual webpage.
